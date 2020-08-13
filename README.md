@@ -1,7 +1,7 @@
-# My Website
+# A Website
 
 This is an experiment.
 
-I wanted to try to make a website with Github Pages, and my poor JavaScript/HTML/CSS know how.
+I wanted to try to make a website with Github Pages, and my rather poor JavaScript/HTML/CSS know how.
 
 
